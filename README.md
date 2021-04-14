@@ -2,7 +2,7 @@
 
 Let’s add a dependency to our application. You can find all sorts of libraries on crates.io, the package registry for Rust. In Rust, we often refer to packages as “crates.”
 
-In this project, we’ll use a crate called ferris-says.
+In this project, we’ll use a crate called **ferris-says**.
 
 In our Cargo.toml file we’ll add this information (that we got from the crate page):
 
